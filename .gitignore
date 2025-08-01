@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Re-include specific directories and their contents
+!DSAS_red.cpp
+!README.md
+!LICENSE
+
+# Re-include the .gitignore file itself
+!.gitignore
